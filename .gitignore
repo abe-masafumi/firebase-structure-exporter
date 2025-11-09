@@ -1,0 +1,10 @@
+.env
+snosid-aadce-0c2f078cd1c1.json
+output/*
+!output/.gitkeep
+__pycache__/
+.python-version
+venv/
+.venv/
+env/
+.DS_Store
